@@ -1,0 +1,1352 @@
+[
+      {
+        "_id": 1,
+        "commonName": "Hyacinth Macaw",
+        "scientificName": "Anodorhynchus hyacinthinus",
+        "family": "Psittacidae",
+        "habitat": ["Tropical forest", "Palm swamps", "Savanna"],
+        "origin": {
+          "continent": "South America",
+          "countries": ["Brazil", "Bolivia", "Paraguay"]
+        },
+        "size": {
+          "length": 100,
+          "wingspan": 130,
+          "weight": 1500
+        },
+        "diet": ["Palm nuts", "Seeds", "Fruits", "Tree bark"],
+        "conservation": {
+          "status": "Vulnerable",
+          "population": 6500,
+          "threats": ["Habitat loss", "Pet trade", "Deforestation"]
+        },
+        "lifespan": 50,
+        "isEndangered": true,
+        "colors": ["Cobalt blue", "Yellow"],
+        "canTalk": true,
+        "lastSpotted": "2024-01-15"
+      },
+      {
+        "_id": 2,
+        "commonName": "Toco Toucan",
+        "scientificName": "Ramphastos toco",
+        "family": "Ramphastidae",
+        "habitat": ["Tropical forest", "Savanna", "Semi-open areas"],
+        "origin": {
+          "continent": "South America",
+          "countries": ["Brazil", "Argentina", "Paraguay", "Bolivia"]
+        },
+        "size": {
+          "length": 63,
+          "wingspan": 85,
+          "weight": 650
+        },
+        "diet": ["Fruits", "Insects", "Small lizards", "Bird eggs"],
+        "conservation": {
+          "status": "Least Concern",
+          "population": 50000,
+          "threats": ["Habitat fragmentation", "Pet trade"]
+        },
+        "lifespan": 20,
+        "isEndangered": false,
+        "colors": ["Black", "White", "Orange"],
+        "canTalk": false,
+        "lastSpotted": "2024-02-20"
+      },
+      {
+        "_id": 3,
+        "commonName": "Scarlet Macaw",
+        "scientificName": "Ara macao",
+        "family": "Psittacidae",
+        "habitat": ["Lowland rainforest", "Humid forest"],
+        "origin": {
+          "continent": "Central and South America",
+          "countries": ["Mexico", "Peru", "Brazil", "Bolivia"]
+        },
+        "size": {
+          "length": 89,
+          "wingspan": 120,
+          "weight": 1000
+        },
+        "diet": ["Seeds", "Fruits", "Nuts", "Flowers"],
+        "conservation": {
+          "status": "Least Concern",
+          "population": 20000,
+          "threats": ["Deforestation", "Pet trade"]
+        },
+        "lifespan": 50,
+        "isEndangered": false,
+        "colors": ["Red", "Yellow", "Blue"],
+        "canTalk": true,
+        "lastSpotted": "2024-03-01"
+      },
+      {
+        "_id": 4,
+        "commonName": "Victoria Crowned Pigeon",
+        "scientificName": "Goura victoria",
+        "family": "Columbidae",
+        "habitat": ["Lowland forest", "Swamp forest"],
+        "origin": {
+          "continent": "Oceania",
+          "countries": ["Indonesia", "Papua New Guinea"]
+        },
+        "size": {
+          "length": 74,
+          "wingspan": 85,
+          "weight": 2500
+        },
+        "diet": ["Fallen fruits", "Seeds", "Snails"],
+        "conservation": {
+          "status": "Near Threatened",
+          "population": 10000,
+          "threats": ["Hunting", "Habitat loss"]
+        },
+        "lifespan": 25,
+        "isEndangered": false,
+        "colors": ["Blue-grey", "Maroon", "White"],
+        "canTalk": false,
+        "lastSpotted": "2024-02-15"
+      },
+      {
+        "_id": 5,
+        "commonName": "Philippine Eagle",
+        "scientificName": "Pithecophaga jefferyi",
+        "family": "Accipitridae",
+        "habitat": ["Tropical rainforest", "Montane forest"],
+        "origin": {
+          "continent": "Asia",
+          "countries": ["Philippines"]
+        },
+        "size": {
+          "length": 100,
+          "wingspan": 220,
+          "weight": 8000
+        },
+        "diet": ["Monkeys", "Flying lemurs", "Large snakes", "Birds"],
+        "conservation": {
+          "status": "Critically Endangered",
+          "population": 400,
+          "threats": ["Deforestation", "Hunting", "Human persecution"]
+        },
+        "lifespan": 35,
+        "isEndangered": true,
+        "colors": ["Brown", "White", "Cream"],
+        "canTalk": false,
+        "lastSpotted": "2024-01-30"
+      },
+      {
+        "_id": 6,
+        "commonName": "Blue-and-yellow Macaw",
+        "scientificName": "Ara ararauna",
+        "family": "Psittacidae",
+        "habitat": ["Tropical forest", "Palm groves", "Woodland"],
+        "origin": {
+          "continent": "South America",
+          "countries": ["Venezuela", "Brazil", "Bolivia", "Colombia"]
+        },
+        "size": {
+          "length": 86,
+          "wingspan": 110,
+          "weight": 1200
+        },
+        "diet": ["Palm fruits", "Seeds", "Nuts", "Berries"],
+        "conservation": {
+          "status": "Least Concern",
+          "population": 100000,
+          "threats": ["Habitat loss", "Pet trade"]
+        },
+        "lifespan": 60,
+        "isEndangered": false,
+        "colors": ["Blue", "Yellow", "Green"],
+        "canTalk": true,
+        "lastSpotted": "2024-02-28"
+      },
+      {
+        "_id": 7,
+        "commonName": "Great Hornbill",
+        "scientificName": "Buceros bicornis",
+        "family": "Bucerotidae",
+        "habitat": ["Evergreen forest", "Moist deciduous forest"],
+        "origin": {
+          "continent": "Asia",
+          "countries": ["India", "Thailand", "Malaysia", "Indonesia"]
+        },
+        "size": {
+          "length": 95,
+          "wingspan": 150,
+          "weight": 3000
+        },
+        "diet": ["Fruits", "Small mammals", "Birds", "Reptiles"],
+        "conservation": {
+          "status": "Vulnerable",
+          "population": 13000,
+          "threats": ["Habitat loss", "Hunting", "Forest degradation"]
+        },
+        "lifespan": 35,
+        "isEndangered": true,
+        "colors": ["Black", "Yellow", "White"],
+        "canTalk": false,
+        "lastSpotted": "2024-02-10"
+      },
+      {
+        "_id": 8,
+        "commonName": "Red-fan Parrot",
+        "scientificName": "Deroptyus accipitrinus",
+        "family": "Psittacidae",
+        "habitat": ["Tropical rainforest", "Lowland forest"],
+        "origin": {
+          "continent": "South America",
+          "countries": ["Brazil", "Peru", "Venezuela"]
+        },
+        "size": {
+          "length": 35,
+          "wingspan": 50,
+          "weight": 250
+        },
+        "diet": ["Fruits", "Seeds", "Flowers"],
+        "conservation": {
+          "status": "Least Concern",
+          "population": 25000,
+          "threats": ["Habitat degradation", "Pet trade"]
+        },
+        "lifespan": 40,
+        "isEndangered": false,
+        "colors": ["Green", "Red", "Blue", "Brown"],
+        "canTalk": true,
+        "lastSpotted": "2024-03-05"
+      },
+      {
+        "_id": 9,
+        "commonName": "Greater Bird-of-Paradise",
+        "scientificName": "Paradisaea apoda",
+        "family": "Paradisaeidae",
+        "habitat": ["Rainforest", "Lowland forest"],
+        "origin": {
+          "continent": "Oceania",
+          "countries": ["Indonesia", "Papua New Guinea"]
+        },
+        "size": {
+          "length": 43,
+          "wingspan": 45,
+          "weight": 430
+        },
+        "diet": ["Fruits", "Arthropods", "Small reptiles"],
+        "conservation": {
+          "status": "Least Concern",
+          "population": 15000,
+          "threats": ["Hunting", "Habitat loss"]
+        },
+        "lifespan": 30,
+        "isEndangered": false,
+        "colors": ["Maroon", "Yellow", "Green", "Brown"],
+        "canTalk": false,
+        "lastSpotted": "2024-02-25"
+      },
+      {
+        "_id": 10,
+        "commonName": "Palm Cockatoo",
+        "scientificName": "Probosciger aterrimus",
+        "family": "Cacatuidae",
+        "habitat": ["Rainforest", "Woodland", "Savanna"],
+        "origin": {
+          "continent": "Oceania",
+          "countries": ["Australia", "Papua New Guinea", "Indonesia"]
+        },
+        "size": {
+          "length": 60,
+          "wingspan": 90,
+          "weight": 1000
+        },
+        "diet": ["Seeds", "Nuts", "Fruits", "Berries"],
+        "conservation": {
+          "status": "Vulnerable",
+          "population": 2500,
+          "threats": ["Habitat loss", "Low reproduction rate"]
+        },
+        "lifespan": 50,
+        "isEndangered": true,
+        "colors": ["Black", "Red"],
+        "canTalk": true,
+        "lastSpotted": "2024-01-20"
+      },
+      {
+        "_id": 11,
+        "commonName": "Cuban Tody",
+        "scientificName": "Todus multicolor",
+        "family": "Todidae",
+        "habitat": ["Forest edges", "Coffee plantations"],
+        "origin": {
+          "continent": "North America",
+          "countries": ["Cuba"]
+        },
+        "size": {
+          "length": 11,
+          "wingspan": 15,
+          "weight": 6
+        },
+        "diet": ["Insects", "Small lizards", "Spiders"],
+        "conservation": {
+          "status": "Near Threatened",
+          "population": 5000,
+          "threats": ["Habitat destruction", "Climate change"]
+        },
+        "lifespan": 8,
+        "isEndangered": false,
+        "colors": ["Green", "Red", "Blue", "Pink"],
+        "canTalk": false,
+        "lastSpotted": "2024-02-18"
+      },
+      {
+        "_id": 12,
+        "commonName": "Andean Cock-of-the-rock",
+        "scientificName": "Rupicola peruvianus",
+        "family": "Cotingidae",
+        "habitat": ["Cloud forest", "Rocky areas"],
+        "origin": {
+          "continent": "South America",
+          "countries": ["Peru", "Ecuador", "Colombia"]
+        },
+        "size": {
+          "length": 32,
+          "wingspan": 40,
+          "weight": 220
+        },
+        "diet": ["Fruits", "Insects", "Small vertebrates"],
+        "conservation": {
+          "status": "Least Concern",
+          "population": 18000,
+          "threats": ["Habitat fragmentation"]
+        },
+        "lifespan": 15,
+        "isEndangered": false,
+        "colors": ["Orange", "Black", "Grey"],
+        "canTalk": false,
+        "lastSpotted": "2024-03-02"
+      },
+      {
+        "_id": 13,
+        "commonName": "Quetzal",
+        "scientificName": "Pharomachrus mocinno",
+        "family": "Trogonidae",
+        "habitat": ["Cloud forest", "Mountain forest"],
+        "origin": {
+          "continent": "Central America",
+          "countries": ["Guatemala", "Mexico", "Panama"]
+        },
+        "size": {
+          "length": 40,
+          "wingspan": 65,
+          "weight": 210
+        },
+        "diet": ["Fruits", "Insects", "Small frogs", "Lizards"],
+        "conservation": {
+          "status": "Near Threatened",
+          "population": 7000,
+          "threats": ["Habitat loss", "Hunting"]
+        },
+        "lifespan": 20,
+        "isEndangered": true,
+        "colors": ["Iridescent green", "Red", "White"],
+        "canTalk": false,
+        "lastSpotted": "2024-02-05"
+      },
+      {
+        "_id": 14,
+        "commonName": "African Grey Parrot",
+        "scientificName": "Psittacus erithacus",
+        "family": "Psittacidae",
+        "habitat": ["Lowland forest", "Mangroves", "Savanna woodland"],
+        "origin": {
+          "continent": "Africa",
+          "countries": ["Congo", "Ghana", "Kenya", "Uganda"]
+        },
+        "size": {
+          "length": 33,
+          "wingspan": 45,
+          "weight": 400
+        },
+        "diet": ["Seeds", "Fruits", "Nuts", "Bark"],
+        "conservation": {
+          "status": "Endangered",
+          "population": 1500,
+          "threats": ["Pet trade", "Deforestation", "Hunting"]
+        },
+        "lifespan": 50,
+        "isEndangered": true,
+        "colors": ["Grey", "Red", "Black"],
+        "canTalk": true,
+        "lastSpotted": "2024-03-10"
+      },
+      {
+        "_id": 15,
+        "commonName": "Blue-throated Macaw",
+        "scientificName": "Ara glaucogularis",
+        "family": "Psittacidae",
+        "habitat": ["Tropical savanna", "Palm groves"],
+        "origin": {
+          "continent": "South America",
+          "countries": ["Bolivia"]
+        },
+        "size": {
+          "length": 85,
+          "wingspan": 95,
+          "weight": 750
+        },
+        "diet": ["Palm fruits", "Seeds", "Nuts"],
+        "conservation": {
+          "status": "Critically Endangered",
+          "population": 250,
+          "threats": ["Habitat loss", "Pet trade", "Small population"]
+        },
+        "lifespan": 45,
+        "isEndangered": true,
+        "colors": ["Blue", "Yellow", "Turquoise"],
+        "canTalk": true,
+        "lastSpotted": "2024-01-25"
+      },
+      {
+        "_id": 16,
+        "commonName": "Sulphur-crested Cockatoo",
+        "scientificName": "Cacatua galerita",
+        "family": "Cacatuidae",
+        "habitat": ["Woodland", "Urban areas", "Rainforest edges"],
+        "origin": {
+          "continent": "Oceania",
+          "countries": ["Australia", "New Guinea", "Indonesia"]
+        },
+        "size": {
+          "length": 50,
+          "wingspan": 100,
+          "weight": 800
+        },
+        "diet": ["Seeds", "Berries", "Nuts", "Insects"],
+        "conservation": {
+          "status": "Least Concern",
+          "population": 100000,
+          "threats": ["Habitat modification"]
+        },
+        "lifespan": 40,
+        "isEndangered": false,
+        "colors": ["White", "Yellow"],
+        "canTalk": true,
+        "lastSpotted": "2024-03-12"
+      },
+      {
+        "_id": 17,
+        "commonName": "Keel-billed Toucan",
+        "scientificName": "Ramphastos sulfuratus",
+        "family": "Ramphastidae",
+        "habitat": ["Tropical forest", "Lowland forest"],
+        "origin": {
+          "continent": "Central America",
+          "countries": ["Mexico", "Panama", "Colombia"]
+        },
+        "size": {
+          "length": 50,
+          "wingspan": 60,
+          "weight": 400
+        },
+        "diet": ["Fruits", "Insects", "Lizards", "Tree frogs"],
+        "conservation": {
+          "status": "Least Concern",
+          "population": 50000,
+          "threats": ["Deforestation", "Pet trade"]
+        },
+        "lifespan": 15,
+        "isEndangered": false,
+        "colors": ["Black", "Yellow", "Green", "Red", "Orange"],
+        "canTalk": false,
+        "lastSpotted": "2024-02-28"
+      },
+      {
+        "_id": 18,
+        "commonName": "Wilson's Bird-of-Paradise",
+        "scientificName": "Diphyllodes respublica",
+        "family": "Paradisaeidae",
+        "habitat": ["Lowland forest", "Hill forest"],
+        "origin": {
+          "continent": "Oceania",
+          "countries": ["Indonesia"]
+        },
+        "size": {
+          "length": 16,
+          "wingspan": 25,
+          "weight": 55
+        },
+        "diet": ["Fruits", "Arthropods"],
+        "conservation": {
+          "status": "Near Threatened",
+          "population": 2500,
+          "threats": ["Habitat loss", "Limited range"]
+        },
+        "lifespan": 20,
+        "isEndangered": true,
+        "colors": ["Red", "Blue", "Yellow", "Green"],
+        "canTalk": false,
+        "lastSpotted": "2024-01-15"
+      },
+      {
+        "_id": 19,
+        "commonName": "Rhinoceros Hornbill",
+        "scientificName": "Buceros rhinoceros",
+        "family": "Bucerotidae",
+        "habitat": ["Tropical rainforest", "Lowland forest"],
+        "origin": {
+          "continent": "Asia",
+          "countries": ["Thailand", "Malaysia", "Indonesia"]
+        },
+        "size": {
+          "length": 110,
+          "wingspan": 150,
+          "weight": 2400
+        },
+        "diet": ["Fruits", "Small animals", "Insects"],
+        "conservation": {
+          "status": "Vulnerable",
+          "population": 7000,
+          "threats": ["Deforestation", "Hunting"]
+        },
+        "lifespan": 35,
+        "isEndangered": true,
+        "colors": ["Black", "White", "Red", "Yellow"],
+        "canTalk": false,
+        "lastSpotted": "2024-02-20"
+      },
+      {
+        "_id": 20,
+        "commonName": "Red-tailed Black Cockatoo",
+        "scientificName": "Calyptorhynchus banksii",
+        "family": "Cacatuidae",
+        "habitat": ["Eucalyptus woodland", "Grassland"],
+        "origin": {
+          "continent": "Oceania",
+          "countries": ["Australia"]
+        },
+        "size": {
+          "length": 60,
+          "wingspan": 85,
+          "weight": 800
+        },
+        "diet": ["Seeds", "Nuts", "Berries"],
+        "conservation": {
+          "status": "Least Concern",
+          "population": 100000,
+          "threats": ["Habitat modification"]
+        },
+        "lifespan": 50,
+        "isEndangered": false,
+        "colors": ["Black", "Red"],
+        "canTalk": true,
+        "lastSpotted": "2024-03-01"
+      },
+      {
+        "_id": 21,
+        "commonName": "Blue-crowned Motmot",
+        "scientificName": "Momotus momota",
+        "family": "Momotidae",
+        "habitat": ["Forest", "Garden", "Plantation"],
+        "origin": {
+          "continent": "South America",
+          "countries": ["Brazil", "Argentina", "Peru"]
+        },
+        "size": {
+          "length": 45,
+          "wingspan": 60,
+          "weight": 120
+        },
+        "diet": ["Insects", "Small lizards", "Fruits"],
+        "conservation": {
+          "status": "Least Concern",
+          "population": 500000,
+          "threats": ["Habitat fragmentation"]
+        },
+        "lifespan": 12,
+        "isEndangered": false,
+        "colors": ["Blue", "Green", "Black"],
+        "canTalk": false,
+        "lastSpotted": "2024-02-15"
+      },
+      {
+        "_id": 22,
+        "commonName": "Goliath Imperial-Pigeon",
+        "scientificName": "Ducula goliath",
+        "family": "Columbidae",
+        "habitat": ["Rainforest", "Mountain forest"],
+        "origin": {
+          "continent": "Oceania",
+          "countries": ["New Caledonia"]
+        },
+        "size": {
+          "length": 52,
+          "wingspan": 80,
+          "weight": 850
+        },
+        "diet": ["Fruits", "Seeds"],
+        "conservation": {
+          "status": "Near Threatened",
+          "population": 10000,
+          "threats": ["Hunting", "Habitat loss"]
+        },
+        "lifespan": 15,
+        "isEndangered": false,
+        "colors": ["Grey", "Green", "Purple"],
+        "canTalk": false,
+        "lastSpotted": "2024-01-30"
+      },
+      {
+        "_id": 23,
+        "commonName": "Cuban Amazon",
+        "scientificName": "Amazona leucocephala",
+        "family": "Psittacidae",
+        "habitat": ["Woodland", "Palm grove"],
+        "origin": {
+          "continent": "North America",
+          "countries": ["Cuba", "Bahamas"]
+        },
+        "size": {
+          "length": 32,
+          "wingspan": 40,
+          "weight": 300
+        },
+        "diet": ["Seeds", "Fruits", "Leaves"],
+        "conservation": {
+          "status": "Near Threatened",
+          "population": 18000,
+          "threats": ["Habitat loss", "Pet trade"]
+        },
+        "lifespan": 40,
+        "isEndangered": false,
+        "colors": ["Green", "White", "Red", "Blue"],
+        "canTalk": true,
+        "lastSpotted": "2024-02-25"
+      },
+      {
+        "_id": 24,
+        "commonName": "Knobbed Hornbill",
+        "scientificName": "Aceros cassidix",
+        "family": "Bucerotidae",
+        "habitat": ["Tropical forest", "Lowland forest"],
+        "origin": {
+          "continent": "Asia",
+          "countries": ["Indonesia"]
+        },
+        "size": {
+          "length": 70,
+          "wingspan": 100,
+          "weight": 1500
+        },
+        "diet": ["Fruits", "Small animals"],
+        "conservation": {
+          "status": "Vulnerable",
+          "population": 2500,
+          "threats": ["Hunting", "Habitat loss"]
+        },
+        "lifespan": 30,
+        "isEndangered": true,
+        "colors": ["Black", "Red", "Yellow"],
+        "canTalk": false,
+        "lastSpotted": "2024-02-10"
+      },
+      {
+        "_id": 25,
+        "commonName": "Spix's Macaw",
+        "scientificName": "Cyanopsitta spixii",
+        "family": "Psittacidae",
+        "habitat": ["Gallery woodland", "Palm grove"],
+        "origin": {
+          "continent": "South America",
+          "countries": ["Brazil"]
+        },
+        "size": {
+          "length": 55,
+          "wingspan": 95,
+          "weight": 300
+        },
+        "diet": ["Seeds", "Nuts", "Fruits"],
+        "conservation": {
+          "status": "Critically Endangered",
+          "population": 160,
+          "threats": ["Habitat loss", "Pet trade", "Small population"]
+        },
+        "lifespan": 40,
+        "isEndangered": true,
+        "colors": ["Blue", "Grey"],
+        "canTalk": true,
+        "lastSpotted": "2024-01-20"
+      },
+      {
+        "_id": 26,
+        "commonName": "Red-crowned Crane",
+        "scientificName": "Grus japonensis",
+        "family": "Gruidae",
+        "habitat": ["Wetlands", "Grasslands", "Rivers"],
+        "origin": {
+          "continent": "Asia",
+          "countries": ["Japan", "China", "Korea"]
+        },
+        "size": {
+          "length": 158,
+          "wingspan": 250,
+          "weight": 7500
+        },
+        "diet": ["Plants", "Fish", "Amphibians", "Insects"],
+        "conservation": {
+          "status": "Endangered",
+          "population": 2800,
+          "threats": ["Wetland destruction", "Agriculture"]
+        },
+        "lifespan": 40,
+        "isEndangered": true,
+        "colors": ["White", "Black", "Red"],
+        "canTalk": false,
+        "lastSpotted": "2024-02-28"
+      },
+      {
+        "_id": 27,
+        "commonName": "Yellow-tailed Black Cockatoo",
+        "scientificName": "Calyptorhynchus funereus",
+        "family": "Cacatuidae",
+        "habitat": ["Forest", "Woodland", "Urban areas"],
+        "origin": {
+          "continent": "Oceania",
+          "countries": ["Australia"]
+        },
+        "size": {
+          "length": 65,
+          "wingspan": 130,
+          "weight": 900
+        },
+        "diet": ["Seeds", "Insects", "Wood-boring grubs"],
+        "conservation": {
+          "status": "Least Concern",
+          "population": 100000,
+          "threats": ["Habitat loss", "Competition"]
+        },
+        "lifespan": 50,
+        "isEndangered": false,
+        "colors": ["Black", "Yellow"],
+        "canTalk": true,
+        "lastSpotted": "2024-03-05"
+      },
+      {
+        "_id": 28,
+        "commonName": "Ivory-billed Aracari",
+        "scientificName": "Pteroglossus azara",
+        "family": "Ramphastidae",
+        "habitat": ["Tropical forest", "Subtropical forest"],
+        "origin": {
+          "continent": "South America",
+          "countries": ["Brazil", "Venezuela", "Colombia"]
+        },
+        "size": {
+          "length": 38,
+          "wingspan": 45,
+          "weight": 190
+        },
+        "diet": ["Fruits", "Insects", "Small lizards"],
+        "conservation": {
+          "status": "Least Concern",
+          "population": 50000,
+          "threats": ["Deforestation"]
+        },
+        "lifespan": 20,
+        "isEndangered": false,
+        "colors": ["Black", "Yellow", "Red"],
+        "canTalk": false,
+        "lastSpotted": "2024-02-15"
+      },
+      {
+        "_id": 29,
+        "commonName": "King Bird-of-Paradise",
+        "scientificName": "Cicinnurus regius",
+        "family": "Paradisaeidae",
+        "habitat": ["Lowland forest", "Hill forest"],
+        "origin": {
+          "continent": "Oceania",
+          "countries": ["Indonesia", "Papua New Guinea"]
+        },
+        "size": {
+          "length": 16,
+          "wingspan": 30,
+          "weight": 65
+        },
+        "diet": ["Fruits", "Arthropods"],
+        "conservation": {
+          "status": "Least Concern",
+          "population": 20000,
+          "threats": ["Habitat loss"]
+        },
+        "lifespan": 15,
+        "isEndangered": false,
+        "colors": ["Red", "White", "Green", "Blue"],
+        "canTalk": false,
+        "lastSpotted": "2024-03-01"
+      },
+      {
+        "_id": 30,
+        "commonName": "Major Mitchell's Cockatoo",
+        "scientificName": "Lophochroa leadbeateri",
+        "family": "Cacatuidae",
+        "habitat": ["Arid woodland", "Scrubland"],
+        "origin": {
+          "continent": "Oceania",
+          "countries": ["Australia"]
+        },
+        "size": {
+          "length": 39,
+          "wingspan": 80,
+          "weight": 425
+        },
+        "diet": ["Seeds", "Bulbs", "Fruits"],
+        "conservation": {
+          "status": "Near Threatened",
+          "population": 10000,
+          "threats": ["Habitat loss", "Illegal collection"]
+        },
+        "lifespan": 40,
+        "isEndangered": false,
+        "colors": ["Pink", "White", "Salmon"],
+        "canTalk": true,
+        "lastSpotted": "2024-02-20"
+      },
+      {
+        "_id": 31,
+        "commonName": "Harpy Eagle",
+        "scientificName": "Harpia harpyja",
+        "family": "Accipitridae",
+        "habitat": ["Tropical rainforest", "Lowland forest"],
+        "origin": {
+          "continent": "South America",
+          "countries": ["Brazil", "Peru", "Panama"]
+        },
+        "size": {
+          "length": 100,
+          "wingspan": 200,
+          "weight": 9000
+        },
+        "diet": ["Monkeys", "Sloths", "Large birds"],
+        "conservation": {
+          "status": "Near Threatened",
+          "population": 50000,
+          "threats": ["Deforestation", "Hunting"]
+        },
+        "lifespan": 35,
+        "isEndangered": false,
+        "colors": ["Black", "Grey", "White"],
+        "canTalk": false,
+        "lastSpotted": "2024-02-15"
+      },
+      {
+        "_id": 32,
+        "commonName": "Eclectus Parrot",
+        "scientificName": "Eclectus roratus",
+        "family": "Psittacidae",
+        "habitat": ["Lowland rainforest", "Coastal forest"],
+        "origin": {
+          "continent": "Oceania",
+          "countries": ["Indonesia", "Papua New Guinea", "Australia"]
+        },
+        "size": {
+          "length": 35,
+          "wingspan": 50,
+          "weight": 450
+        },
+        "diet": ["Fruits", "Seeds", "Nuts", "Flowers"],
+        "conservation": {
+          "status": "Least Concern",
+          "population": 100000,
+          "threats": ["Pet trade", "Habitat loss"]
+        },
+        "lifespan": 30,
+        "isEndangered": false,
+        "colors": ["Red", "Green", "Blue", "Yellow"],
+        "canTalk": true,
+        "lastSpotted": "2024-03-01"
+      },
+      {
+        "_id": 33,
+        "commonName": "Southern Ground Hornbill",
+        "scientificName": "Bucorvus leadbeateri",
+        "family": "Bucorvidae",
+        "habitat": ["Savanna", "Grassland"],
+        "origin": {
+          "continent": "Africa",
+          "countries": ["South Africa", "Kenya", "Tanzania"]
+        },
+        "size": {
+          "length": 110,
+          "wingspan": 180,
+          "weight": 4000
+        },
+        "diet": ["Insects", "Small mammals", "Reptiles"],
+        "conservation": {
+          "status": "Vulnerable",
+          "population": 1500,
+          "threats": ["Habitat loss", "Human persecution"]
+        },
+        "lifespan": 40,
+        "isEndangered": true,
+        "colors": ["Black", "Red"],
+        "canTalk": false,
+        "lastSpotted": "2024-01-30"
+      },
+      {
+        "_id": 34,
+        "commonName": "Twelve-wired Bird-of-Paradise",
+        "scientificName": "Seleucidis melanoleucus",
+        "family": "Paradisaeidae",
+        "habitat": ["Lowland forest", "Swamp forest"],
+        "origin": {
+          "continent": "Oceania",
+          "countries": ["Indonesia", "Papua New Guinea"]
+        },
+        "size": {
+          "length": 33,
+          "wingspan": 45,
+          "weight": 180
+        },
+        "diet": ["Fruits", "Arthropods", "Small vertebrates"],
+        "conservation": {
+          "status": "Least Concern",
+          "population": 20000,
+          "threats": ["Habitat degradation"]
+        },
+        "lifespan": 20,
+        "isEndangered": false,
+        "colors": ["Black", "Yellow", "White"],
+        "canTalk": false,
+        "lastSpotted": "2024-02-28"
+      },
+      {
+        "_id": 35,
+        "commonName": "Great Argus",
+        "scientificName": "Argusianus argus",
+        "family": "Phasianidae",
+        "habitat": ["Primary forest", "Secondary forest"],
+        "origin": {
+          "continent": "Asia",
+          "countries": ["Malaysia", "Indonesia", "Thailand"]
+        },
+        "size": {
+          "length": 200,
+          "wingspan": 80,
+          "weight": 2300
+        },
+        "diet": ["Fallen fruits", "Seeds", "Invertebrates"],
+        "conservation": {
+          "status": "Near Threatened",
+          "population": 100000,
+          "threats": ["Hunting", "Habitat loss"]
+        },
+        "lifespan": 20,
+        "isEndangered": false,
+        "colors": ["Brown", "Black", "White", "Red"],
+        "canTalk": false,
+        "lastSpotted": "2024-02-10"
+      },
+      {
+        "_id": 36,
+        "commonName": "Red-and-green Macaw",
+        "scientificName": "Ara chloropterus",
+        "family": "Psittacidae",
+        "habitat": ["Tropical forest", "Woodland"],
+        "origin": {
+          "continent": "South America",
+          "countries": ["Brazil", "Peru", "Bolivia"]
+        },
+        "size": {
+          "length": 90,
+          "wingspan": 125,
+          "weight": 1250
+        },
+        "diet": ["Seeds", "Fruits", "Nuts"],
+        "conservation": {
+          "status": "Least Concern",
+          "population": 50000,
+          "threats": ["Pet trade", "Deforestation"]
+        },
+        "lifespan": 50,
+        "isEndangered": false,
+        "colors": ["Red", "Green", "Blue"],
+        "canTalk": true,
+        "lastSpotted": "2024-03-05"
+      },
+      {
+        "_id": 37,
+        "commonName": "Long-wattled Umbrellabird",
+        "scientificName": "Cephalopterus penduliger",
+        "family": "Cotingidae",
+        "habitat": ["Cloud forest", "Humid forest"],
+        "origin": {
+          "continent": "South America",
+          "countries": ["Ecuador", "Colombia"]
+        },
+        "size": {
+          "length": 41,
+          "wingspan": 55,
+          "weight": 450
+        },
+        "diet": ["Fruits", "Large insects", "Small vertebrates"],
+        "conservation": {
+          "status": "Vulnerable",
+          "population": 6000,
+          "threats": ["Habitat fragmentation", "Hunting"]
+        },
+        "lifespan": 15,
+        "isEndangered": true,
+        "colors": ["Black", "Red"],
+        "canTalk": false,
+        "lastSpotted": "2024-01-20"
+      },
+      {
+        "_id": 38,
+        "commonName": "Black Palm Cockatoo",
+        "scientificName": "Probosciger aterrimus",
+        "family": "Cacatuidae",
+        "habitat": ["Rainforest", "Woodland"],
+        "origin": {
+          "continent": "Oceania",
+          "countries": ["Australia", "Papua New Guinea"]
+        },
+        "size": {
+          "length": 60,
+          "wingspan": 90,
+          "weight": 1000
+        },
+        "diet": ["Palm nuts", "Seeds", "Fruits"],
+        "conservation": {
+          "status": "Least Concern",
+          "population": 20000,
+          "threats": ["Habitat loss"]
+        },
+        "lifespan": 50,
+        "isEndangered": false,
+        "colors": ["Black", "Grey"],
+        "canTalk": true,
+        "lastSpotted": "2024-02-25"
+      },
+      {
+        "_id": 39,
+        "commonName": "Blue-billed Curassow",
+        "scientificName": "Crax alberti",
+        "family": "Cracidae",
+        "habitat": ["Tropical forest", "Humid forest"],
+        "origin": {
+          "continent": "South America",
+          "countries": ["Colombia"]
+        },
+        "size": {
+          "length": 83,
+          "wingspan": 95,
+          "weight": 3000
+        },
+        "diet": ["Fruits", "Seeds", "Insects"],
+        "conservation": {
+          "status": "Critically Endangered",
+          "population": 250,
+          "threats": ["Hunting", "Habitat loss", "Small population"]
+        },
+        "lifespan": 20,
+        "isEndangered": true,
+        "colors": ["Black", "White", "Blue"],
+        "canTalk": false,
+        "lastSpotted": "2024-01-15"
+      },
+      {
+        "_id": 40,
+        "commonName": "Magnificent Riflebird",
+        "scientificName": "Ptiloris magnificus",
+        "family": "Paradisaeidae",
+        "habitat": ["Rainforest", "Montane forest"],
+        "origin": {
+          "continent": "Oceania",
+          "countries": ["Australia", "Indonesia", "Papua New Guinea"]
+        },
+        "size": {
+          "length": 34,
+          "wingspan": 45,
+          "weight": 155
+        },
+        "diet": ["Fruits", "Arthropods"],
+        "conservation": {
+          "status": "Least Concern",
+          "population": 20000,
+          "threats": ["Habitat degradation"]
+        },
+        "lifespan": 20,
+        "isEndangered": false,
+        "colors": ["Black", "Blue", "Green"],
+        "canTalk": false,
+        "lastSpotted": "2024-03-01"
+      },
+      {
+        "_id": 41,
+        "commonName": "Yellow-naped Amazon",
+        "scientificName": "Amazona auropalliata",
+        "family": "Psittacidae",
+        "habitat": ["Tropical forest", "Mangroves"],
+        "origin": {
+          "continent": "North America",
+          "countries": ["Mexico", "Costa Rica"]
+        },
+        "size": {
+          "length": 35,
+          "wingspan": 45,
+          "weight": 480
+        },
+        "diet": ["Seeds", "Fruits", "Flowers"],
+        "conservation": {
+          "status": "Endangered",
+          "population": 1000,
+          "threats": ["Pet trade", "Habitat loss"]
+        },
+        "lifespan": 45,
+        "isEndangered": true,
+        "colors": ["Green", "Yellow", "Blue"],
+        "canTalk": true,
+        "lastSpotted": "2024-02-20"
+      },
+      {
+        "_id": 42,
+        "commonName": "Red-ruffed Fruitcrow",
+        "scientificName": "Pyroderus scutatus",
+        "family": "Cotingidae",
+        "habitat": ["Mountain forest", "Lowland forest"],
+        "origin": {
+          "continent": "South America",
+          "countries": ["Brazil", "Argentina", "Paraguay"]
+        },
+        "size": {
+          "length": 38,
+          "wingspan": 50,
+          "weight": 350
+        },
+        "diet": ["Fruits", "Large insects"],
+        "conservation": {
+          "status": "Least Concern",
+          "population": 50000,
+          "threats": ["Deforestation"]
+        },
+        "lifespan": 15,
+        "isEndangered": false,
+        "colors": ["Black", "Red"],
+        "canTalk": false,
+        "lastSpotted": "2024-02-28"
+      },
+      {
+        "_id": 43,
+        "commonName": "White Cockatoo",
+        "scientificName": "Cacatua alba",
+        "family": "Cacatuidae",
+        "habitat": ["Tropical forest", "Coastal forest"],
+        "origin": {
+          "continent": "Asia",
+          "countries": ["Indonesia"]
+        },
+        "size": {
+          "length": 46,
+          "wingspan": 85,
+          "weight": 550
+        },
+        "diet": ["Seeds", "Nuts", "Fruits", "Coconuts"],
+        "conservation": {
+          "status": "Endangered",
+          "population": 1500,
+          "threats": ["Pet trade", "Habitat loss"]
+        },
+        "lifespan": 40,
+        "isEndangered": true,
+        "colors": ["White"],
+        "canTalk": true,
+        "lastSpotted": "2024-03-10"
+      },
+      {
+        "_id": 44,
+        "commonName": "Sword-billed Hummingbird",
+        "scientificName": "Ensifera ensifera",
+        "family": "Trochilidae",
+        "habitat": ["Cloud forest", "High-altitude woodland"],
+        "origin": {
+          "continent": "South America",
+          "countries": ["Ecuador", "Peru", "Bolivia"]
+        },
+        "size": {
+          "length": 14,
+          "wingspan": 15,
+          "weight": 12
+        },
+        "diet": ["Nectar", "Small insects"],
+        "conservation": {
+          "status": "Least Concern",
+          "population": 50000,
+          "threats": ["Climate change"]
+        },
+        "lifespan": 10,
+        "isEndangered": false,
+        "colors": ["Green", "Bronze", "Blue"],
+        "canTalk": false,
+        "lastSpotted": "2024-02-15"
+      },
+      {
+        "_id": 45,
+        "commonName": "Blue-eyed Cockatoo",
+        "scientificName": "Cacatua ophthalmica",
+        "family": "Cacatuidae",
+        "habitat": ["Lowland forest", "Hill forest"],
+        "origin": {
+          "continent": "Oceania",
+          "countries": ["Papua New Guinea"]
+        },
+        "size": {
+          "length": 50,
+          "wingspan": 90,
+          "weight": 750
+        },
+        "diet": ["Seeds", "Nuts", "Fruits"],
+        "conservation": {
+          "status": "Vulnerable",
+          "population": 3000,
+          "threats": ["Pet trade", "Habitat loss"]
+        },
+        "lifespan": 50,
+        "isEndangered": true,
+        "colors": ["White", "Blue"],
+        "canTalk": true,
+        "lastSpotted": "2024-01-30"
+      },
+      {
+        "_id": 46,
+        "commonName": "Helmeted Hornbill",
+        "scientificName": "Rhinoplax vigil",
+        "family": "Bucerotidae",
+        "habitat": ["Primary forest", "Old-growth forest"],
+        "origin": {
+          "continent": "Asia",
+          "countries": ["Indonesia", "Malaysia", "Thailand"]
+        },
+        "size": {
+          "length": 110,
+          "wingspan": 170,
+          "weight": 3000
+        },
+        "diet": ["Fruits", "Small animals"],
+        "conservation": {
+          "status": "Critically Endangered",
+          "population": 400,
+          "threats": ["Hunting", "Habitat loss", "Poaching"]
+        },
+        "lifespan": 35,
+        "isEndangered": true,
+        "colors": ["Black", "White", "Red", "Yellow"],
+        "canTalk": false,
+        "lastSpotted": "2024-02-05"
+      },
+      {
+        "_id": 47,
+        "commonName": "Pesquet's Parrot",
+        "scientificName": "Psittrichas fulgidus",
+        "family": "Psittacidae",
+        "habitat": ["Hill forest", "Mountain forest"],
+        "origin": {
+          "continent": "Oceania",
+          "countries": ["Papua New Guinea", "Indonesia"]
+        },
+        "size": {
+          "length": 46,
+          "wingspan": 65,
+          "weight": 800
+        },
+        "diet": ["Fruits", "Figs"],
+        "conservation": {
+          "status": "Vulnerable",
+          "population": 2500,
+          "threats": ["Hunting", "Habitat loss"]
+        },
+        "lifespan": 40,
+        "isEndangered": true,
+        "colors": ["Black", "Red"],
+        "canTalk": false,
+        "lastSpotted": "2024-03-01"
+      },
+      {
+        "_id": 48,
+        "commonName": "Red-legged Seriema",
+        "scientificName": "Cariama cristata",
+        "family": "Cariamidae",
+        "habitat": ["Grassland", "Savanna"],
+        "origin": {
+          "continent": "South America",
+          "countries": ["Brazil", "Bolivia", "Paraguay"]
+        },
+        "size": {
+          "length": 90,
+          "wingspan": 100,
+          "weight": 1500
+        },
+        "diet": ["Insects", "Reptiles", "Small mammals"],
+        "conservation": {
+          "status": "Least Concern",
+          "population": 100000,
+          "threats": ["Habitat conversion"]
+        },
+        "lifespan": 25,
+        "isEndangered": false,
+        "colors": ["Grey", "Brown", "Red"],
+        "canTalk": false,
+        "lastSpotted": "2024-02-25"
+      },
+      {
+        "_id": 49,
+        "commonName": "Palm Cockatoo",
+        "scientificName": "Probosciger aterrimus",
+        "family": "Cacatuidae",
+        "habitat": ["Rainforest", "Palm grove"],
+        "origin": {
+          "continent": "Oceania",
+          "countries": ["Australia", "Papua New Guinea"]
+        },
+        "size": {
+          "length": 60,
+          "wingspan": 90,
+          "weight": 1000
+        },
+        "diet": ["Palm nuts", "Seeds", "Native fruits"],
+        "conservation": {
+          "status": "Vulnerable",
+          "population": 3000,
+          "threats": ["Habitat loss", "Low reproduction rate"]
+        },
+        "lifespan": 50,
+        "isEndangered": true,
+        "colors": ["Black", "Red"],
+        "canTalk": true,
+        "lastSpotted": "2024-02-15"
+      },
+      {
+        "_id": 50,
+        "commonName": "Hoatzin",
+        "scientificName": "Opisthocomus hoazin",
+        "family": "Opisthocomidae",
+        "habitat": ["Riparian forest", "Swamp"],
+        "origin": {
+          "continent": "South America",
+          "countries": ["Brazil", "Peru", "Colombia"]
+        },
+        "size": {
+          "length": 65,
+          "wingspan": 80,
+          "weight": 800
+        },
+        "diet": ["Leaves", "Fruits", "Flowers"],
+        "conservation": {
+          "status": "Least Concern",
+          "population": 100000,
+          "threats": ["Habitat degradation"]
+        },
+        "lifespan": 15,
+        "isEndangered": false,
+        "colors": ["Brown", "Rust", "Blue"],
+        "canTalk": false,
+        "lastSpotted": "2024-03-05"
+      }
+    ]
